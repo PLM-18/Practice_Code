@@ -6,8 +6,8 @@ class Database
     private $conn;
 
     private $servername = "localhost";
-    private $dbusername = "u23629810";
-    private $dbpassword = "DCLKZSUXXBLW43WAOQJMDIMR2ELLSHEY";
+    private $dbusername = "";
+    private $dbpassword = "";
     private $dbname = "test";
 
     private function __construct(){
